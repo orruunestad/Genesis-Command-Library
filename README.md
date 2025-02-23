@@ -1,5 +1,5 @@
 # Genesis Command Library
-> Join the [discord](https://discord.gg/skibidi toilet) for more information and updates!
+Join the [discord](https://discord.gg/skibidi toilet) for more information and updates!
 
 ### Booting the library
 ```
