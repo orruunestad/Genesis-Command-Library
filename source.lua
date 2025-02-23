@@ -1,7 +1,6 @@
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local Commands = {}
-local Prefix = "!" -- set with setPrefix("new prefix goes here")
 
 function setPrefix(newPrefix)
     Prefix = newPrefix or "!"
