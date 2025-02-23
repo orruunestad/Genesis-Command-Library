@@ -11,4 +11,4 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/orruunestad/Genesis-Co
 ```
 local Prefix = "!"
 ```
-> This sets the prefix for commands in chat, so for example if the prefix was ! and the command was explode, the command would be !explode
+> This sets the prefix for commands in chat, so for example if the prefix was !, the command would be !explode
