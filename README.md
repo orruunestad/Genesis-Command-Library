@@ -8,3 +8,6 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/orruunestad/Genesis-Co
 > This loads the necessary code to create commands!
 
 ### Setting the prefix
+```
+local Prefix = "!"
+```
