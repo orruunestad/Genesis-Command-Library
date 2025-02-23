@@ -2,5 +2,5 @@
 
 ### Booting the library
 ```
-test
+loadstring(game:HttpGet"https://raw.githubusercontent.com/orruunestad/Genesis-Command-Library/refs/heads/main/source.lua")()
 ```
